@@ -1,0 +1,77 @@
+body {
+
+		background-color:steelblue;
+		font-family: "avenir";
+		background-image: url("eraser.jpg");
+		background-attachment: fixed;
+		background-position: center top;
+		background-attachment: scroll;
+	    background-size:100% auto;
+		background-repeat: no-repeat;
+}
+
+h1{
+	margin-top: 25%;
+	color:floralwhite;
+	font-size: 5.5vw;
+	text-align:left;
+	font-weight: bolder;
+	text-transform: uppercase;
+	border:solid;
+	border-color:steelblue;
+	border-width: 7px;
+	width:20%;
+
+}
+
+#firstcategory{
+	font-size:4vw;
+	text-align:center;
+	font-weight: bold;
+	text-transform: uppercase;	
+	color:floralwhite;
+	margin-top:12%;
+}
+.category{
+	font-size:4vw;
+	text-align:center;
+	font-weight: bold;
+	text-transform: uppercase;	
+	color:floralwhite;
+	margin-top:8%;
+}
+
+.categoryelement{
+	font-size:3vw;
+	text-align:left;
+	font-weight:bold;
+	color:gold;
+	margin-left: 15%;
+	margin-top:-2%;
+}
+
+.elementinfo {
+	font-size:2.8vw;
+	text-align:left;
+	font-weight: normal;
+	color:gold;
+	margin-left: 15%;
+	margin-top:-4%;
+	margin-bottom:-2%;
+}
+.categorycontent{
+	text-align: left;
+	font-weight: normal;
+	margin-left: 25%;
+	margin-right: 5%;
+	color:floralwhite;
+}
+
+.skillslist{
+	font-size: 2vw;
+	text-align: left;
+	font-weight: bold;
+	margin-left: 25%;
+	color:gold;
+
+}

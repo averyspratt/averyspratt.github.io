@@ -1,0 +1,11 @@
+body {
+
+		background-color:steelblue;
+		font-family: "avenir";
+		background-image: url("tilecolor.jpg");
+		background-attachment: fixed;
+		background-position: center top;
+		background-attachment: scroll;
+	    background-size:100% auto;
+		background-repeat: no-repeat;
+}
